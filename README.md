@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 14.03.25
+## Register Number: 212224040217
+## Name: N.NETHRAA
 ## Problem Title
 SIH 1653: Web based Selector-Applicant Simulation Software
 ## Problem Description
@@ -12,15 +12,38 @@ Ministry of Defence
 
 ## Idea
 
+Improving alumni relations: The platform can help alumni stay connected with the university and other alumni. Increasing donations: The platform can help increase the number of benefactors. Providing networking opportunities: The platform can help alumni network with each other and with the university. Sharing success stories: The platform can help alumni share their success stories. Here are some other ways to improve alumni engagement: Promote alumni work: Highlight the accomplishments of alumni. Host hybrid events: Consider hosting a mix of in-person and virtual events. Show where donations go: Make it clear where donations go. Provide professional development: Offer opportunities for professional development. Support well-being: Offer support for the well-being of alumni. Bring in alumni mentors: Connect alumni with students to guide them. Alumni associations can help universities in many ways, including: Supporting the university: Alumni can support the university's efforts to improve by donating money, volunteering, and attending events. Sharing corporate knowledge: Alumni can share their corporate knowledge and networks to help inform program development. Enhancing reputation: Alumni can help enhance the university's reputation.
 
 ## Proposed Solution / Architecture Diagram
 
+![web 1](https://github.com/user-attachments/assets/d610fe44-c752-427e-9325-08efc5a5ea6d)
 
 ## Use Cases
 
+![web 2](https://github.com/user-attachments/assets/e54e2528-ed31-406b-9e36-f1151f3bb927)
 
 ## Technology Stack
 
+```
+React.js
+Angular
+Bootstrap
+Tailwind CSS
+Node.js
+Python
+PostgreSQL
+MongoDB
+Firebase Authentication
+Stripe or Razorpay
+AWS S3
+GitHub Actions or Jenkins
 
+```
 ## Dependencies
+
+Mapping service- 10 days
+
+Data collection- 10 days
+
+budget- rs.50,000
 
